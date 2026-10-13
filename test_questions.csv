@@ -1,0 +1,42 @@
+question,reference_answer,expected_page
+What bacterium causes cholera?,Vibrio cholerae,170
+How is cholera usually spread?,"By eating food or drinking water contaminated with cholera bacteria, usually from human feces",170
+What is the key to treating cholera?,"Preventing dehydration by replacing lost fluids and electrolytes, mainly with WHO oral rehydration fluid (water, sugar, salts); intravenous fluids in severe cases",171
+How many viruses can cause the common cold and which group causes most colds?,Over 200 viruses; rhinoviruses cause 30-50% of colds,258
+Which grains contain the gluten that triggers celiac disease?,"Wheat, rye, barley, and possibly oats",70
+What are other names for celiac disease?,"Sprue, nontropical sprue, gluten sensitive enteropathy, celiac sprue, adult celiac disease",70
+What is cerebral palsy?,A group of nonprogressive disorders of movement and posture caused by abnormal development of or damage to motor control centers of the brain,90
+Which parasite causes Chagas' disease and how is it carried?,"Trypanosoma cruzi, carried by reduviid or kissing bugs",116
+How many people does Chagas' disease affect worldwide and how many does it kill each year?,"Over 15 million affected and 50,000 deaths per year",116
+What percentage of cluster headache sufferers are male?,Approximately 80%,213
+What are other names for cluster headaches?,"Histamine headaches, red migraines, and Horton's disease",213
+Which chromosome is involved in cri du chat syndrome?,Chromosome 5 (deletion on 5p); also called 5p minus syndrome,343
+Who first described cri du chat syndrome and in which year?,Dr. Jerome Lejeune in 1963,343
+What happened in the 1993 Milwaukee cryptosporidiosis outbreak?,"Over 400,000 people were affected; it was traced to the city's water supply",356
+What causes Cushing's syndrome?,"Excessive exposure to cortisol, most commonly from taking medications containing the hormone over a long time",359
+What causes decompression sickness?,Nitrogen bubbles forming in the blood and tissues of scuba divers who surface too quickly,396
+What type of virus causes dengue fever and how is it transmitted?,An arbovirus (arthropod-borne virus) transmitted to humans by mosquitoes,415
+What is the origin of the word dyslexia?,From Greek: dys meaning poor or inadequate and lexis meaning words or language,502
+What causes echinococcosis and where do the cysts mostly form?,"Larval form of Echinococcus tapeworm; cysts form mainly in the lungs and liver, liver cysts cause about two-thirds of cases",514
+How long must a tick stay attached to spread ehrlichiosis?,At least 24 hours,529
+Which organism causes monocytic ehrlichiosis and which tick spreads it?,"Ehrlichia chaffeensis, spread by the Lone Star tick (Amblyomma americanum)",529
+What causes true elephantiasis?,"Filarial roundworms transmitted by mosquitoes that block the lymphatic system, causing lymphedema",553
+What percentage of women of childbearing age in the US have endometriosis and at what ages is it most common?,About 7%; most common between ages 25 and 40,579
+What was endometriosis once called?,The career woman's disease,579
+What are the three major forms of epidermolysis bullosa?,"EB simplex, junctional EB, and dystrophic EB",604
+Which populations are most affected by familial Mediterranean fever?,"People of Armenian, Sephardic-Jewish, Arabic, and Turkish ancestry",667
+How long do attacks of familial Mediterranean fever usually last?,12 to 72 hours,667
+Which gene mutation causes fragile X syndrome?,A mutation in the FMR-1 gene on the X chromosome,752
+Which bacterium causes cat-scratch disease and how does it spread between cats?,"Bartonella henselae, spread from cat to cat by fleas",58
+How long must fatigue last for a diagnosis of chronic fatigue syndrome?,Six months or longer,190
+How is a cochlear implant different from a hearing aid?,"A cochlear implant bypasses damaged hair cells and directly stimulates the auditory nerve, while a hearing aid only amplifies sound",226
+What is the most common cause of delirium?,"Metabolic disorders, accounting for 20-40% of cases",408
+What body temperature is considered a fever?,Any temperature above 100°F (37.8°C),699
+What is cardioversion?,Restoring the heart's normal rhythm by applying a controlled electric shock to the exterior of the chest,54
+At what water temperature should frostbite be rewarmed and for how long?,104-108°F (40-42.2°C) for 15-30 minutes,758
+What is cystinuria?,"An inherited disorder where the kidneys fail to absorb the amino acid cystine, causing it to build up in urine and form stones",379
+Who won the 2011 Cricket World Cup?,I don't know,
+What is the capital of Australia?,I don't know,
+How do I sort a list in Python?,I don't know,
+Who wrote the Harry Potter books?,I don't know,
+What is Pfizer's stock price today?,I don't know,

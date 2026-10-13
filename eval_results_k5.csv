@@ -1,0 +1,56 @@
+question,in_scope,expected_page,retrieved_pages,retrieval_hit,answer,correct
+What bacterium causes cholera?,True,170.0,"[170, 170, 171, 170, 170]",True,Vibrio cholerae.,True
+How is cholera usually spread?,True,170.0,"[170, 170, 170, 171, 171]",True,"Cholera is usually spread by consuming food or drinking water that has been contaminated with cholera bacteria—most often when feces from an infected person seep into a community water supply. Contaminated fruits, vegetables (especially those fertilized with human feces), and raw or undercooked seafood from polluted waters can also transmit the disease.",True
+What is the key to treating cholera?,True,171.0,"[171, 170, 171, 170, 171]",True,Prompt fluid and electrolyte replacement is the key to treating cholera.,True
+How many viruses can cause the common cold and which group causes most colds?,True,258.0,"[258, 258, 259, 259, 258]",True,"More than 200 different viruses can cause the common cold, and the rhinovirus group is responsible for the largest share—about 30 % to 50 % of cases.",True
+Which grains contain the gluten that triggers celiac disease?,True,70.0,"[70, 72, 72, 70, 72]",True,"Wheat, rye, barley, and (possibly) oats contain the gluten that triggers celiac disease.",True
+What are other names for celiac disease?,True,70.0,"[70, 70, 72, 70, 72]",True,"Other names for celiac disease include sprue, nontropical sprue, gluten‑sensitive enteropathy, celiac sprue, and adult celiac disease.",True
+What is cerebral palsy?,True,90.0,"[90, 95, 94, 90, 95]",True,"Cerebral palsy (CP) is a group of non‑progressive disorders of movement and posture that result from abnormal development of, or damage to, the brain’s motor‑control centers. It arises from events before, during, or after birth and is characterized by abnormal muscle control, often accompanied by other neurological and physical abnormalities.",True
+Which parasite causes Chagas' disease and how is it carried?,True,116.0,"[116, 116, 729, 357, 117]",True,"The parasite that causes Chagas’ disease is **Trypanosoma cruzi**.  
+The provided context does not specify how this parasite is carried.",False
+How many people does Chagas' disease affect worldwide and how many does it kill each year?,True,116.0,"[116, 116, 341, 117, 723]",True,"Chagas’ disease affects over 15 million people worldwide and kills about 50,000 people each year.",True
+What percentage of cluster headache sufferers are male?,True,213.0,"[213, 213, 215, 214, 213]",True,Approximately 80 % of cluster‑headache sufferers are male.,True
+What are other names for cluster headaches?,True,213.0,"[213, 215, 214, 213, 214]",True,"Cluster headaches have also been called **histamine headaches**, **red migraines**, and **Horton’s disease**.",True
+Which chromosome is involved in cri du chat syndrome?,True,343.0,"[343, 344, 343, 345, 343]",True,Chromosome 5.,True
+Who first described cri du chat syndrome and in which year?,True,343.0,"[343, 344, 343, 343, 343]",True,Dr. Jerome Lejeune first described cri du chat syndrome in 1963.,True
+What happened in the 1993 Milwaukee cryptosporidiosis outbreak?,True,356.0,"[357, 356, 356, 353, 356]",True,"In 1993 Milwaukee experienced a massive cryptosporidiosis outbreak that affected more than 400,000 people. The source of the infection was traced to the city’s water supply, which had become contaminated with Cryptosporidium cysts.",True
+What causes Cushing's syndrome?,True,359.0,"[360, 360, 360, 359, 363]",True,"Cushing’s syndrome is caused by:
+
+* **Long‑term use of glucocorticoid medications** (e.g., prednisone) that provide excess cortisol exposure.  
+* **Endogenous overproduction of ACTH or cortisol**, which can arise from:
+  * A pituitary tumor (usually an adenoma) that secretes large amounts of ACTH.  
+  * An ectopic source of ACTH production outside the pituitary.  
+  * A tumor of the adrenal gland that directly overproduces cortisol.",True
+What causes decompression sickness?,True,396.0,"[396, 396, 397, 196, 191]",True,Decompression sickness is caused by the formation of nitrogen bubbles in the blood and other tissues when a diver surfaces too quickly.,True
+What type of virus causes dengue fever and how is it transmitted?,True,415.0,"[415, 415, 415, 416, 415]",True,"Dengue fever is caused by an **arbovirus** (an arthropod‑borne virus). It is transmitted **by the mosquito vector Aedes aegypti**, which picks up the virus from an infected host and then passes it to other humans.",True
+What is the origin of the word dyslexia?,True,502.0,"[502, 502, 503, 504, 502]",True,"The word “dyslexia” comes from Greek: *dys* meaning “poor” or “inadequate,” and *lexis* meaning “words” or “language.”",True
+What causes echinococcosis and where do the cysts mostly form?,True,514.0,"[514, 515, 515, 514, 516]",True,"Echinococcosis is caused by infection with the larval (immature) form of the tapeworm **Echinococcus granulosus**—typically acquired through contact with infected dogs or livestock.  
+
+The cysts that develop in this disease form mainly in the **liver** (about two‑thirds of cases) and also in the **lungs**.",True
+How long must a tick stay attached to spread ehrlichiosis?,True,529.0,"[529, 529, 529, 529, 529]",True,At least 24 hours.,True
+Which organism causes monocytic ehrlichiosis and which tick spreads it?,True,529.0,"[529, 529, 529, 529, 529]",True,"Monocytic ehrlichiosis is caused by **Ehrlichia chaffeensis**, and it is spread by the **Lone Star tick (Amblyomma americanum)**.",True
+What causes true elephantiasis?,True,553.0,"[553, 553, 553, 716, 554]",True,"True elephantiasis is caused by a parasitic infection with three specific filarial round‑worm species: **Wuchereria bancrofti, Brugia malayi, and Brugia timori**. These worms are transmitted by certain mosquito species and, over time, damage the lymphatic system, leading to the massive swelling characteristic of elephantiasis.",True
+What percentage of women of childbearing age in the US have endometriosis and at what ages is it most common?,True,579.0,"[579, 579, 575, 580, 580]",True,"7% of women of childbearing age in the United States have endometriosis, and it is most common between the ages of 25 and 40.",True
+What was endometriosis once called?,True,579.0,"[579, 579, 580, 582, 582]",True,I don’t know.,False
+What are the three major forms of epidermolysis bullosa?,True,604.0,"[604, 605, 605, 605, 605]",True,"The three major forms of epidermolysis bullosa are:
+
+1. EB simplex  
+2. Junctional EB  
+3. Dystrophic EB",True
+Which populations are most affected by familial Mediterranean fever?,True,667.0,"[667, 671, 671, 668, 668]",True,"Familial Mediterranean fever most commonly affects people from the eastern Mediterranean region. The disorder is especially prevalent among ethnic groups such as Armenians, Arabs, Turks and other populations native to the eastern Mediterranean, where incidence rates have been reported as high as 1 in 100 to 1 in 2,000 depending on the specific community.",False
+How long do attacks of familial Mediterranean fever usually last?,True,667.0,"[667, 671, 671, 667, 669]",True,Attacks of familial Mediterranean fever typically last 12 to 72 hours.,True
+Which gene mutation causes fragile X syndrome?,True,752.0,"[752, 753, 754, 752, 752]",True,Fragile X syndrome is caused by a mutation in the **FMR‑1 gene**.,True
+Which bacterium causes cat-scratch disease and how does it spread between cats?,True,58.0,"[58, 58, 59, 59, 58]",True,"The disease is caused by the bacterium **Bartonella henselae**.  
+In cats the bacterium stays in the bloodstream for several months after infection, and kittens (cats less than one year old) are more likely than adult cats to be carrying it, allowing the infection to be passed among cats.",False
+How long must fatigue last for a diagnosis of chronic fatigue syndrome?,True,190.0,"[682, 192, 192, 681, 681]",False,Fatigue must persist for at least six months.,True
+How is a cochlear implant different from a hearing aid?,True,226.0,"[227, 227, 510, 227, 227]",False,I don’t know.,False
+What is the most common cause of delirium?,True,408.0,"[408, 409, 408, 409, 409]",True,The most common cause of delirium is metabolic disorders (metabolic encephalopathy).,True
+What body temperature is considered a fever?,True,699.0,"[703, 699, 700, 699, 700]",True,A fever is defined as a body temperature above **100 °F (37.8 °C)**.,True
+What is cardioversion?,True,54.0,"[54, 638, 55, 516, 638]",True,Cardioversion is the process of restoring the heart’s normal rhythm by applying a controlled electric shock to the exterior of the chest.,True
+At what water temperature should frostbite be rewarmed and for how long?,True,758.0,"[757, 758, 757, 758, 758]",True,Rewarm the frostbitten area in water that is **104–108 °F (40–42.2 °C)** for **15–30 minutes**.,True
+What is cystinuria?,True,379.0,"[379, 379, 380, 379, 379]",True,"Cystinuria is an inborn error of amino‑acid transport in which the kidneys fail to reabsorb cystine (and other amino acids such as lysine, arginine, and ornithine). This genetic disorder leads to elevated cystine levels in the urine, which can form crystals and, when numerous, clump together into stones. It is inherited as an abnormal gene from the parents and can be heterozygous (milder form) or homozygous (severe form).",True
+Who won the 2011 Cricket World Cup?,False,,"[157, 570, 683, 553, 417]",,I don't know.,True
+What is the capital of Australia?,False,,"[76, 137, 373, 553, 355]",,I don't know.,True
+How do I sort a list in Python?,False,,"[563, 161, 8, 457, 398]",,I don’t know.,True
+Who wrote the Harry Potter books?,False,,"[152, 503, 8, 152, 75]",,I don’t know.,True
+What is Pfizer's stock price today?,False,,"[354, 139, 192, 591, 326]",,I don’t know.,True
