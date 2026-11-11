@@ -46,13 +46,18 @@ qa_chain = RetrievalQA.from_chain_type(
 
 def ask_question(question: str) -> dict:
     response = qa_chain.invoke({"query": question})
+    answer = response["result"]
 
     pages = []
     for doc in response["source_documents"]:
         page = doc.metadata.get("page")
         if page is not None:
-            label = f"Page {page + 1}"  # PDF loader 0 se count karta hai
+            label = f"Page {page + 1}"
             if label not in pages:
                 pages.append(label)
 
-    return {"answer": response["result"], "sources": pages}
+    # Agar bot ko answer nahi pata, toh sources mat dikhao
+    if "don't know" in answer.lower().replace("’", "'"):
+        pages = []
+
+    return {"answer": answer, "sources": pages}
