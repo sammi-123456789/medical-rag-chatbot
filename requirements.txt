@@ -10,3 +10,6 @@
    pypdf
    python-dotenv
    pandas
+   fastapi
+   uvicorn
+   requests
