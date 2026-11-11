@@ -1,0 +1,7 @@
+.venv/
+.env
+.git/
+__pycache__/
+data/
+files.zip
+vector/db_faiss_1000/
