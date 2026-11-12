@@ -1,11 +1,26 @@
+import os
 import requests
 import streamlit as st
 
-API_URL = "http://127.0.0.1:8000/ask"
+API_URL = os.environ.get("API_URL", "http://127.0.0.1:8000/ask")
+USE_API = os.environ.get("USE_API", "true").lower() == "true"
+
+
+def get_answer(question: str) -> dict:
+    if USE_API:
+        # Local: FastAPI backend ko call karo
+        response = requests.post(API_URL, json={"question": question}, timeout=60)
+        response.raise_for_status()
+        return response.json()
+
+    # Cloud: seedha RAG function use karo
+    from app.rag import ask_question
+    return ask_question(question)
 
 
 def main():
     st.title("Ask Chatbot!")
+    st.caption("Educational demo built on a medical encyclopedia. Not medical advice.")
 
     if "messages" not in st.session_state:
         st.session_state.messages = []
@@ -20,9 +35,7 @@ def main():
         st.session_state.messages.append({"role": "user", "content": prompt})
 
         try:
-            response = requests.post(API_URL, json={"question": prompt}, timeout=60)
-            response.raise_for_status()
-            data = response.json()
+            data = get_answer(prompt)
 
             result_to_show = data["answer"]
             if data["sources"]:
